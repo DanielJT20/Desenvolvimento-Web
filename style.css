@@ -1,0 +1,31 @@
+*{
+    background-color: wheat;
+    }
+
+#botao{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    align-content: center;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    width: 10%;
+    height: 10%;
+    margin-left: 47%;
+    margin-top: 6%;
+    border-radius: 10px;
+    background-color: rgb(255, 123, 0);
+    border: 2px solid rgb(0, 0, 0);
+    transition: 2s ease-in-out;
+}
+#botao:hover{
+    border-radius: 10px;
+    font-size: 25px;
+    width: 13%;
+    height: 18%;
+    margin-left: 46%;
+    margin-top: 6%;
+    transition: 2s ease-in-out;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 123, 0);
+    border: white 2.5px solid;
+}
