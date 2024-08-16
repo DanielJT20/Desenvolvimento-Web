@@ -1,0 +1,11 @@
+Git: https://blog.betrybe.com/git/
+Tópicos: 4, 5, 6, 7, 8, 9, 11, 12, 13, 14
+
+Python: https://didatica.tech/a-linguagem-python/
+Tópicos: 4, 8, 11, 13, 14
+
+Sqlite: https://rockcontent.com/br/blog/sqlite/
+Tópicos: 3, 8, 12, 13, 14
+
+VS Code: https://cyber0devs.com/visual-studio-code-o-que-e-e-como-funciona/ 
+Tópicos: 4, 5 6, 7, 8, 9, 11, 12, 13, 14
