@@ -1,0 +1,50 @@
+#container{
+    display: grid;
+    gap: 5px;
+    height: 40rem;
+    grid-template-areas: 
+    "a a" 
+    "b c"
+    "d e"
+    "f f"
+    ;
+}
+#container > div{
+    background-color: red;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    font-weight: 600;
+}
+    #um{
+        grid-area: a;
+    }
+    #dois{
+        grid-area: b;
+    }
+    #tres{
+        grid-area: c;
+    }
+    #quatro{
+        grid-area: d;
+    }
+    #cinco{
+        grid-area: e;
+    }
+    #seis{
+        grid-area: f;
+    }
+
+    @media screen and (min-width: 760px){
+        #container{
+            grid-template-areas: 
+            "a a b"
+            "c d b"
+            "e f f" ;
+        }
+        
+    }
+
